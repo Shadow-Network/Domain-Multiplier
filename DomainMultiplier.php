@@ -4,7 +4,6 @@
 	** Domain Multiplier v1.0
 	** Utilizado para multiplicar lista de domínios.
 	** Coded by Constantine - 07/2015 - https://github.com/jessesilva
-	** P0cL4bs Team: https://github.com/P0cL4bs
 	** Shadow Network: https://github.com/Shadow-Network
 	*/
 	
